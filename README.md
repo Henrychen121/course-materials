@@ -7,7 +7,7 @@
 | 课程 | 资料 |
 | --- | --- |
 | [管理心理学](courses/管理心理学/README.md) | 课程总体框架及第 1—4 讲 PDF 课件 |
-| [企业文化](courses/企业文化/README.md) | 第 1、2 讲 PDF 课件 |
+| [企业文化](courses/企业文化/README.md) | 第 1—3 讲 PDF 课件 |
 
 ## 目录约定
 
